@@ -1,7 +1,9 @@
 
 dependencies {
-
-    compile ('io.socket:socket.io-client:1.+') {
+    // implementation (project(":library")) {
+    //     transitive = true
+    // }
+    api ('io.socket:socket.io-client:1.+') {
       exclude group: 'org.json', module: 'json'
     }
 
