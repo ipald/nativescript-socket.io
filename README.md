@@ -1,7 +1,7 @@
 NOTE
 ====
 This fork allow using this library with newer gradle versions, so it affects only the Android part.
-see ![the original issue](https://github.com/naderio/nativescript-socket.io/issues/81) for information
+see [the original issue](https://github.com/naderio/nativescript-socket.io/issues/81) for information
 
 nativescript-socket.io
 ======================
